@@ -4227,6 +4227,8 @@ var PptxGenJS = function(){
 				strXmlBullet = '<a:buSzPct val="100000"/><a:buChar char="'+ BULLET_TYPES['DEFAULT'] +'"/>';
 			}
 			else {
+				paragraphPropXml += ' indent="0"';
+				paragraphPropXml += ' marL="0"';
 				strXmlBullet = '<a:buNone/>';
 			}
 
