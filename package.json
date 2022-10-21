@@ -13,7 +13,7 @@
 	"dependencies": {
 		"express": "^4.16.4",
 		"https": "^1.0.0",
-		"image-size": "^0.8.1",
+		"image-size": "^0.9.7",
 		"jquery": "^3.5.0",
 		"jsdom": "^15.1.1",
 		"jszip": "^3.7.0"
